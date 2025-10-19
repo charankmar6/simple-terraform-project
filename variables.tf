@@ -1,3 +1,4 @@
 variable "bucketname" {
-  default = "static-web1212"
+  type = string
+  default = "static-web121212"
 }
